@@ -1,0 +1,14 @@
+1647542280 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/alu.v
+1647541926 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/alu_control.v
+1646319568 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/branch_unit.v
+1647542061 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/control_unit.v
+1647541408 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/cpu.v
+1646319568 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/immediate_extend_unit.v
+1646319568 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/mux_2.v
+1646319568 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/pc.v
+1646319568 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/reg_arstn.v
+1646319568 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/reg_arstn_en.v
+1646319568 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/register_file.v
+1646319568 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/sram.v
+1646319568 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/cpu_tb.v
+1646319568 /users/students/r0815994/Downloads/CA_Exercise-main/RTL/saed32sram_mod.v

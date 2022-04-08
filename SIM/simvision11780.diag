@@ -1,0 +1,23 @@
+*** Message Type: info ***
+When: Thu Mar 17 05:16:41 PM CET 2022
+Exit NC-Sim: user
+      Design: worklib.reg_arstn:v
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:        ncsim(64)       15.20-s058
+        User: r0815994
+        Host: pc-klas3-2.esat.kuleuven.be
+Time Started: Thu Mar 17 05:06:00 PM CET 2022
+  Process ID: 11761
+   Directory: /users/students/r0815994/Downloads/CA_Exercise-main/SIM
+     Command: ncverilog +sv -f files_verilog.f +nc64bit +nctimescale+1ns/10ps +access+rwc -ALLOWREDEFINITION -linedebug +gui
+
+ 
+*** Message Type: info ***
+When: Thu Mar 17 05:16:45 PM CET 2022
+Delete waveform window: "Waveform 1"
+ 
+*** Message Type: info ***
+When: Thu Mar 17 05:16:50 PM CET 2022
+SimVision Exit.
+ 

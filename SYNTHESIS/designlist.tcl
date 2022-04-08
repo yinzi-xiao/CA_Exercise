@@ -7,8 +7,13 @@ set verilog_files { \
    branch_unit
    control_unit
    cpu
+   equality_test_unit
+   forward_unit
+   hazard_detection_unit
    immediate_extend_unit
+   ins_IF_ID
    mux_2
+   mux_3
    pc
    reg_arstn
    reg_arstn_en

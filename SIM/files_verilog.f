@@ -3,8 +3,13 @@
 ../RTL/branch_unit.v
 ../RTL/control_unit.v
 ../RTL/cpu.v
+../RTL/equality_test_unit.v
+../RTL/forward_unit.v
+../RTL/hazard_detection_unit.v
 ../RTL/immediate_extend_unit.v
+../RTL/ins_IF_ID.v
 ../RTL/mux_2.v
+../RTL/mux_3.v
 ../RTL/pc.v
 ../RTL/reg_arstn.v
 ../RTL/reg_arstn_en.v
@@ -12,3 +17,4 @@
 ../RTL/sram.v
 ../RTL/cpu_tb.v
 ../RTL/saed32sram_mod.v
+
